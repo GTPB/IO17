@@ -1,4 +1,4 @@
-# [IO17 - Large-scale bioinformatics for Immuno-Oncology](http://gtpb.igc.gulbenkian.pt/bicourses/Archive/2017/IO17.html)
+# [IO17 - Large-scale bioinformatics for Immuno-Oncology](http://gtpb.igc.gulbenkian.pt/bicourses/Archive/2017/IO17/index.html)
 
 Instituto Gulbenkian de Ciência, Oeiras, Portugal
 
