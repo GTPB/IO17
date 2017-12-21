@@ -1,8 +1,12 @@
-# IO17 - Large-scale bioinformatics for Immuno-Oncology
+# [IO17 - Large-scale bioinformatics for Immuno-Oncology](http://gtpb.igc.gulbenkian.pt/bicourses/Archive/2017/IO17.html)
 
-Instituto Gulbenkian de Ciência, Oeiras, Portugal - 19-22 September, 2017
+Instituto Gulbenkian de Ciência, Oeiras, Portugal
 
-http://gtpb.igc.gulbenkian.pt/bicourses/IO17
+[**Gulbenkian Training Programme in Bioinformatics, GTPB**](http://gtpb.igc.gulbenkian.pt/bicourses/index.html)
+ - 19-22 September, 2017
+
+*with Francesca Finotello and Federica Eduati*
+
 
 ## Course description
 
