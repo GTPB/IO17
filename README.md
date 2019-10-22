@@ -26,6 +26,6 @@ Motivated researchers, clinicians, and students who want to gain an understandin
 
 Programming/scripting skills are helpful, but not mandatory. An understanding of elementary operations with R will be required. Elementary command line instructions in UNIX will be used, so minimal familiarity with navigation in directory trees, copying files and folders, etc. will be needed. 
 
-## Program
+## Program & course materials
 
-A detailed program is reported [here](https://github.com/FFinotello/Immuno-Oncology/blob/master/Program.md).
+For a  detailed program with complete course materials follow this [link](https://github.com/FFinotello/Immuno-Oncology/blob/master/Program.md).
