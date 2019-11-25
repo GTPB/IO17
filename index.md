@@ -40,7 +40,7 @@ schemadotorg:
   url: "https://gtpb.github.io/IO17/"
 ---
 
-![]()
+![](./assets/entry_image.jpg)
 
 ## Course Description
 
@@ -180,7 +180,7 @@ Motivated researchers, clinicians, and students who want to gain an understandin
 
 ---
 
-The source for this course webpage is [on github](https://github.com/GTPB/IO17).
+The source for this course webpage is [in github](https://github.com/GTPB/IO17).
 
 <br/>
 
